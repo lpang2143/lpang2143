@@ -5,6 +5,9 @@
     <a href="https://www.linkedin.com/in/louisgpang/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="lpang@princeton.edu">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
   </div>
 </div>
 
@@ -22,14 +25,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" title="PineconeDB" alt="Pinecone" width="40" height="40"/>&nbsp;
 </div>
-
-___
-
-### Stuff I tried recently:
-##### Worldscape
-###### WebGL and Javascript are hard. But THREE.js is harder. I build this little world-walking game.
-<p align="center">
-  <img src="https://github.com/lpang2143/lpang2143/assets/78526013/18967d53-95d0-4292-8bd4-52cfe68dd979" height="200">
-  <img src="https://media.giphy.com/media/cartoon-arthur-10tytwcRXOipWw/giphy.gif" height="200">
-</p>
-
