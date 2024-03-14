@@ -14,6 +14,7 @@
   <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" title="PineconeDB" alt="Pinecone" width="40" height="40"/>&nbsp;
 </div>
 ___
+
 ### Stuff I tried recently:
 #### Worldscape
 ##### WebGL and Javascript are hard. But THREE.js is harder. I build this little word-walking game.
