@@ -30,6 +30,6 @@ ___
 ###### WebGL and Javascript are hard. But THREE.js is harder. I build this little world-walking game.
 <p align="center">
   <img src="https://github.com/lpang2143/lpang2143/assets/78526013/18967d53-95d0-4292-8bd4-52cfe68dd979" height="200">
-  <img src="https://giphy.com/gifs/cartoon-arthur-10tytwcRXOipWw" height="200">
+  <img src="https://media.giphy.com/media/cartoon-arthur-10tytwcRXOipWw/giphy.gif" height="200">
 </p>
 
