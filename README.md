@@ -1,8 +1,11 @@
 ## Hi there, I'm Louis Pang 👋 (he/him/his) 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/louisgpang/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/louisgpang/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
 
 ### Languages and Tools:
@@ -23,9 +26,10 @@
 ___
 
 ### Stuff I tried recently:
-#### Worldscape
-##### WebGL and Javascript are hard. But THREE.js is harder. I build this little word-walking game.
+##### Worldscape
+###### WebGL and Javascript are hard. But THREE.js is harder. I build this little world-walking game.
 <p align="center">
-  <img src="https://github.com/lpang2143/lpang2143/assets/78526013/18967d53-95d0-4292-8bd4-52cfe68dd979" height="400">
+  <img src="https://github.com/lpang2143/lpang2143/assets/78526013/18967d53-95d0-4292-8bd4-52cfe68dd979" height="200">
+  <img src="https://giphy.com/gifs/cartoon-arthur-10tytwcRXOipWw" height="200">
 </p>
 
