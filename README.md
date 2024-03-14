@@ -1,6 +1,6 @@
 ## Hi there, I'm Louis Pang 👋 (he/him/his) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Louis%20Pang-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/louisgpang/)
-[![Mail](https://img.shields.io/badge/Gmail-lpang@princeton.edu-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:lpang@princeton.edu)
+[![Mail](https://img.shields.io/badge/Gmail-lpang@princeton.edu-red?logo=Gmail&logoColor=blue&labelColor=black)](mailto:lpang@princeton.edu)
 
 
 ### Languages and Tools: 🛠️
