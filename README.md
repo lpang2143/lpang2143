@@ -1,5 +1,7 @@
-### Hi there 👋
-# Louis Pang
+## Louis Pang (he/him/his)
+### Computer Science (BSE) Student at Princeton University
+___
+
 <!--
 **lpang2143/lpang2143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
