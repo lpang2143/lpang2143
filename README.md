@@ -1,18 +1,9 @@
 ## Hi there, I'm Louis Pang 👋 (he/him/his) 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div>
-    <a href="https://www.linkedin.com/in/louisgpang/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <br>
-    <a href="mailto:lpang@princeton.edu">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Louis%20Pang-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/louisgpang/)
+[![Mail](https://img.shields.io/badge/Gmail-lpang@princeton.edu-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:lpang@princeton.edu)
 
-### Languages and Tools:
+
+### Languages and Tools: 🛠️
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>
