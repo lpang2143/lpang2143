@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/louisgpang/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="lpang@princeton.edu">
+    <a href="mailto:lpang@princeton.edu">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
