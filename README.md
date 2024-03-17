@@ -3,7 +3,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-lpang@princeton.edu-red?logo=Gmail&logoColor=red&labelColor=white)](mailto:lpang@princeton.edu)
 
 <h4>
-  Software Dev | Full-Stack | LLMs | Network Security | Student
+  Software Dev | Backend | LLMs | Network Security | Student
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h4>
 <p>
