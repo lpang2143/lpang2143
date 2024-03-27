@@ -33,4 +33,4 @@
 </div>
 
 ### Knowledge and Classes: 📚
-`Security of Networked & Distributed Systems`, `LLMs`, `Micro-Architecture`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
+`Security of Networked & Distributed Systems`, `LLMs`, `System Design`, `Micro-Architecture`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
